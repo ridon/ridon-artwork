@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="81.023481"
-     inkscape:cy="403.37805"
+     inkscape:zoom="0.7"
+     inkscape:cx="229.57214"
+     inkscape:cy="500.08503"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -418,5 +418,44 @@
          id="tspan6235"
          x="413.26294"
          y="832.93951">85mm x 35mm</tspan></text>
+    <g
+       id="g4207">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4201"
+         y="458.07648"
+         x="-388.57144"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="458.07648"
+           x="-388.57144"
+           id="tspan4203"
+           sodipodi:role="line">font roboto</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4205"
+         d="m -140,446.64792 120,5.71428 -7.142857,-20 L -30,478.07649 -20,449.50506"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4212"
+       transform="translate(0,295.71429)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-388.57144"
+         y="458.07648"
+         id="text4214"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4216"
+           x="-388.57144"
+           y="458.07648">open sans</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -140,446.64792 120,5.71428 -7.142857,-20 L -30,478.07649 -20,449.50506"
+         id="path4218"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
